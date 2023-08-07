@@ -1,0 +1,13 @@
+CHANGELOG.md
+docker-compose.yml
+Dockerfile
+.env
+.env.example
+.git
+.gitattributes
+.github
+.gitignore
+README.md
+nginx
+mysql
+php
